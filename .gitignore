@@ -79,7 +79,6 @@ logs/
 # Project specific
 credentials.json
 *.parquet
-*.csv
 # Uncomment if you want to ignore models
 # *.json
 # *.txt
