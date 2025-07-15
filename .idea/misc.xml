@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="sdkName" value="C:\Users\ddans\miniconda3" />
+    <option name="sdkName" value="crypto_forecast_ml" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="C:\Users\ddans\miniconda3" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="crypto_forecast_ml_clean" project-jdk-type="Python SDK" />
 </project>

@@ -1,0 +1,12 @@
+{
+  "model_type": "lgbm_hit5",
+  "symbol": "BTCUSDT",
+  "pred_thresh": 0.5,
+  "calibration": {
+    "weights": [
+      0.9624103762120667
+    ],
+    "bias": -0.2960379867120787
+  },
+  "training_date": "2025-07-14T15:17:02.589981"
+}
