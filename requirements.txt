@@ -12,7 +12,7 @@ scikit-learn==1.7.0
 # ML libraries (CPU only)
 lightgbm==4.3.0
 xgboost==2.1.1
-ta-lib-bin==0.4.28  # wheels précompilés, évite compilation native
+ta-lib-bin==0.4.26
 ta==0.11.0
 
 # API
