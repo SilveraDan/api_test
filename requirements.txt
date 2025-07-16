@@ -7,13 +7,17 @@ numpy==1.24.4
 pandas==2.0.3
 scipy==1.15.2
 scikit-learn==1.7.0
-matplotlib==3.8.4    # ✅ Ajout pour la génération de graphiques
+matplotlib==3.8.4    # graphiques
+seaborn==0.13.2      # visualisation avancée
+statsmodels==0.14.3  # si besoin de stats classiques
 
 # ✅ Machine learning / trading
 lightgbm==4.3.0
 xgboost==2.1.1
 ta-lib-bin==0.4.26
 ta==0.11.0
+optuna==4.4.0        # optimisation d’hyperparamètres
+shap==0.46.0         # ✅ ajouté pour l’explicabilité ML
 
 # ✅ API
 fastapi==0.116.1
@@ -28,12 +32,9 @@ google-cloud-core==2.4.3
 db-dtypes==1.4.3
 pyarrow==20.0.0
 
-# ✅ Utils / Optimisation
+# ✅ Utils / logging / auth
 python-dotenv==1.0.0
-optuna==4.4.0
 requests==2.32.4
 tqdm==4.67.1
-
-# ✅ Auth & Logging
 PyJWT==2.9.0
 logger==1.4
